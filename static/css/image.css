@@ -83,7 +83,7 @@ body {
     text-align: center;
     display: grid;
     grid-template-rows: 6vmin;
-    grid-template-columns: repeat(16, 6vmin);
+    grid-template-columns: repeat(30, auto);
     grid-gap: 1vmin;
     width: calc(6vmin * 16 + 1vmin * 15);
     margin: auto; /* Centered */
